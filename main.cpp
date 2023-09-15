@@ -7,4 +7,3 @@ int main()
 {
     return 2;
 }
-#what is going wrong
